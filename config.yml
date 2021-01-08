@@ -1,0 +1,10 @@
+## < All Credits Goes To DarkBoy For Making This Bot > ##
+## Main bot Config ##
+mainprefix: '*' # Main Prefix 
+status: 'www.bestbot.ga' # Your Bot Status
+## Join Support Guild: https://discord.gg/6KYRXQC  ##
+
+## DEAFULTS ##                 
+defaultwelcomemessage: 'Welcome {user} To {guild} Enjoy Your Stay!' ## default welcome message
+defaultwelcomebackground: 'https://wallpapercave.com/wp/wp5128415.jpg' ##  default welcome background
+## Join Support Guild: https://discord.gg/6KYRXQC  ##
